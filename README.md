@@ -35,10 +35,10 @@ To set up the project, follow these steps:
 ## Dependencies
 Ensure you have the following dependencies installed:
 - Python 3.x
-- Jupyter Notebook
+- Jupyter Notebook or Google Colab
 - Transformers
 - PyTorch
-- pdfplumber
+- PyPDF2
 - NLP libraries (spaCy, NLTK, etc.)
 
 ## Future Enhancements
